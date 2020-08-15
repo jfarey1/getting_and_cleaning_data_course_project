@@ -11,9 +11,9 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 ## For readability, in the variable names:
-'t' was substituted for 'time'
-'f' was substituted for 'frequency'
-'Acc' was substituted for 'Accelerometer'
-'Gyro' was substituted for 'Gyroscope'
-'Mag' was substituted for 'Magnitude'
-'BodyBody' (potentially listed in error) was substituted for 'Body'
+- 't' was substituted for 'time'
+- 'f' was substituted for 'frequency'
+- 'Acc' was substituted for 'Accelerometer'
+- 'Gyro' was substituted for 'Gyroscope'
+- 'Mag' was substituted for 'Magnitude'
+- 'BodyBody' (potentially listed in error) was substituted for 'Body'
